@@ -297,7 +297,7 @@ def check_in(username, password):
     #         campus_dict['areaStr'] = post_dict['areaStr']
     #         for j in campus_dict['updatainfo']:
     #             if j['propertyname'] == 'temperature':
-    #                 j['value'] = '36.4'
+    #                 j['value'] = '36.6'
     #             if j['propertyname'] == 'symptom':
     #                 j['value'] = '无症状'
     #         campus_check_dict = campus_check_in(username, token, campus_dict, i['id'])
